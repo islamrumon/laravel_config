@@ -16,7 +16,7 @@ This provider is designed to be used in Laravel from `5.4` version.
 
 Install through composer:
 ```
-composer require islamrumon/laravel-config-writer
+composer require islamrumon/laravel-config-writer:dev-main
 ```
 
 Add this to `app/config/app.php` under the 'providers' key:
