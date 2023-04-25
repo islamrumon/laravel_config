@@ -4,6 +4,7 @@
     "homepage": "http://octobercms.com",
     "keywords": ["october cms", "october", "laravel", "config", "write", "provider"],
     "license": "MIT",
+    "version": "1.2.0",
     "authors": [
         {
             "name": "Islam rumon",
