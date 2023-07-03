@@ -9,7 +9,8 @@ class LumenServiceProvider extends ServiceProvider
 {
     /** @var  Application */
     protected $app;
-
+ 
+    
     protected function getConfigPath(): string
     {
         return $this->app->getConfigurationPath();
